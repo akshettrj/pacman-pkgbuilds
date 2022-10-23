@@ -3,7 +3,7 @@
 # Contributor: Sven-Hendrik Haase <svenstaro@gmail.com>
 
 pkgname=neovim-akki
-pkgver=0.8.0.r216.g96cf385a7f
+pkgver=0.8.0.r240.g3f80df368e
 pkgrel=1
 pkgdesc='Fork of Vim aiming to improve user experience, plugins, and GUIs.'
 arch=('i686' 'x86_64' 'armv7h' 'armv6h' 'aarch64')
